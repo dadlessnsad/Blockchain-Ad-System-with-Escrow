@@ -1,0 +1,6 @@
+AdSystemTest:testAddAdToQueryArray() (gas: 572858)
+AdSystemTest:testCancelRequestedAd() (gas: 319226)
+AdSystemTest:testDeploy() (gas: 29450)
+AdSystemTest:testRejectAdd() (gas: 326277)
+AdSystemTest:testRotateAds() (gas: 4498248)
+AdSystemTest:testSingleAdRequest() (gas: 362401)
